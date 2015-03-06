@@ -1,7 +1,7 @@
 # USEless Framework
 USEless Framework - Provides highest Level of abstraction
 
-Main Features
+### Main Features
 
 1. Solves neverending competing standards paradigm
 2. Provides highest level of abstraction for all utility libraries
@@ -12,8 +12,31 @@ Main Features
 7. You can put useless code anywhere and it won’t break anything. That way, you can achive absolutely nothing, get paid and go home.
 8. Implements EDP API 2.0, more can be found here http://exception.disoriented.programming.org
 
-Authors
+### Modules
+
+#### Bootstrap Wrapper
+
+Thin, almost invisible layer wrapping award-winning, widely-used-without-reason Bootstrap library. Supports all versions and adds no features to ensure backward compability. It's so thin, that after obfuscation, concatenation and minification we decreased it's weight to 0kb. We achived that by writing no code at first place, but it's not important - we want to get paid for work, right? And don't worry, we attached also original script source to have one more file in our repository.
+
+##### USAGE
+Usage is incredibly simple. To keep it that way, we followed KISS, DRY and other useless principles, but we failed.  
+
+First, include latest boostrap-wrapper script:
+```
+<script src="bootstrap-wrapper-all-final-latest-production.min.js"></script>
+```
+
+Then just include this 2 lines in your html:
+```
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+```
+
+and it will JustWork&#8482;!
+
+#### Authors
 
 1. Krzysztof Sykuła - autor of widely known "6 minutes ABS workout"
 2. Aleksander Figiel  
 Was 3 times at the party where first time Facebook idea was created by Zuckerberg.
+
