@@ -13,5 +13,5 @@ Main Features
 Authors
 
 1. Krzysztof Sykuła - autor of widely known "6 minutes ABS workout"
-2. Aleksander Figiel
+2. Aleksander Figiel  
 Was 3 times at the party where first time Facebook idea was created by Zuckerberg.
