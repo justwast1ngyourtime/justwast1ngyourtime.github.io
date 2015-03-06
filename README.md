@@ -34,6 +34,10 @@ Then just include this 2 lines in your html:
 
 and it will JustWork&#8482;!
 
+#### USEless compiler
+
+Patented HARMless MODE now available. Beginners can now safely write their code. How this was achieved? In HARMLess mode each void file is assembled,compilied and then goes to dev null.   
+
 #### Authors
 
 1. Krzysztof Sykuła - autor of widely known "6 minutes ABS workout"
