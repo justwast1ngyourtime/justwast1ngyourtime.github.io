@@ -3,7 +3,7 @@ USEless Framework - Provides highest Level of abstraction
 
 ### Main Features
 
-1. Solves neverending competing standards paradigm
+1. Solves neverending competing standards paradigm http://imgs.xkcd.com/comics/standards.png
 2. Provides highest level of abstraction for all utility libraries
 3. Compiles your native language to almost all existing programing languages. Supports even languages like latin.
 4. Supports "three valued" booleans with syntax if/else/whatever.
