@@ -36,7 +36,11 @@ and it will JustWork&#8482;!
 
 #### USEless compiler
 
-Patented HARMless MODE now available. Beginners can now safely write their code. How this was achieved? In HARMLess mode each void file is assembled,compilied and then goes to dev null.   
+Patented HARMless MODE now available. Beginners can now safely write their code. How this was achieved? In HARMLess mode each void file is assembled,compiled and then goes to dev null.
+
+#### USEless Language
+
+New keywords available like omit
 
 #### Authors
 
