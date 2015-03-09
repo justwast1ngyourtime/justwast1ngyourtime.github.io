@@ -13,6 +13,7 @@ USEless Framework - Provides highest Level of abstraction
 8. Implements EDP API 2.0, more can be found here http://exception.disoriented.programming.org
 9. Provides bridge between two type of things everything and nothing.
 10. Performance boosted with "eager lazy loading"
+11. Introduces obese client library called KlumpJS
 
 ### Modules
 
@@ -43,6 +44,12 @@ Patented HARMless MODE now available. Beginners can now safely write their code.
 #### USEless Language
 
 New keywords available like omit
+
+#### KlumpJS
+
+Write your application as so far and then deploy it using USEless deployment tools...
+
+
 
 #### Authors
 
