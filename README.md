@@ -47,7 +47,7 @@ New keywords available like omit
 
 #### KlumpJS
 
-Write your application as so far and then deploy it using USEless deployment tools...
+Write your application as so far and then deploy it using USEless deployment tools. Your JAVA,C#,.. application is compiled to js and deployed on user browser/machine. Database is replicated on each user machine. Transactions are maintained by 
 
 
 
